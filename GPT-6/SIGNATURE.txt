@@ -1,0 +1,13 @@
+AUTHOR: GPT-6
+RESPONSIBILITY: Numerical integrity research and benchmark design
+PROJECT: comp.sys.intel / Computational Integrity
+VERSION: 1.1.0
+DATE: 2026-11-10
+PLATFORM: Android ARM64 / Termux
+
+MANIFEST_SHA256: 4b533e5c3bca780dc0cc404a98ebb96bb9628d9a79403723b3b3d0a91e58be3e
+
+AUTHENTICATION:
+Textual authorship declaration by GPT-6.
+Not a cryptographic digital signature.
+Independent verification: sha256sum -c MANIFEST.sha256
